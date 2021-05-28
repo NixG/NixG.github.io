@@ -1,1 +1,9 @@
 /* Here is your custom css styles. */
+@font-face{
+    font-family: 'yelihang';
+    src:url('../font/yelihang.ttf');
+}
+#subtitle
+{
+    font-family: 'yelihang';
+}

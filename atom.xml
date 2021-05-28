@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>橘子Blog</title>
+  
+  <subtitle>For You</subtitle>
+  <link href="http://nixg.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://nixg.github.io/"/>
+  <updated>2021-05-28T16:38:38.730Z</updated>
+  <id>http://nixg.github.io/</id>
+  
+  <author>
+    <name>橘子</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关与刚开始Hexo的</title>
+    <link href="http://nixg.github.io/2021/05/26/hello-world/"/>
+    <id>http://nixg.github.io/2021/05/26/hello-world/</id>
+    <published>2021-05-26T03:31:26.761Z</published>
+    <updated>2021-05-28T16:38:38.730Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;也是因为刚开始做&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;博客，好多地方不熟悉，就先记一些零碎的关于美化和使用的小记录吧（ps:懒得再建一个文档就先用自带的Hello world了😓）&lt;/p&gt;
+&lt;h2 id=&quot;快速启动&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
