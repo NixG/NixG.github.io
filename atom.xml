@@ -6,7 +6,7 @@
   <link href="http://nixg.github.io/atom.xml" rel="self"/>
   
   <link href="http://nixg.github.io/"/>
-  <updated>2021-05-28T16:38:38.730Z</updated>
+  <updated>2021-05-29T03:48:39.116Z</updated>
   <id>http://nixg.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关与刚开始Hexo的</title>
+    <title>关于刚开始Hexo的一点记录</title>
     <link href="http://nixg.github.io/2021/05/26/hello-world/"/>
     <id>http://nixg.github.io/2021/05/26/hello-world/</id>
     <published>2021-05-26T03:31:26.761Z</published>
-    <updated>2021-05-28T16:38:38.730Z</updated>
+    <updated>2021-05-29T03:48:39.116Z</updated>
     
     
       
@@ -35,6 +35,10 @@
     
     
     
+    <category term="随便写写" scheme="http://nixg.github.io/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+    
+    <category term="Hexo" scheme="http://nixg.github.io/tags/Hexo/"/>
     
   </entry>
   
